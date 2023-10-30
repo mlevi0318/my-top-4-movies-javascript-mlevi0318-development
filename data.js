@@ -74,6 +74,7 @@ let averageAge = ( (2023 - favMovies[0].year) + (2023 - favMovies[1].year) + (20
 console.log("The average age is: " + averageAge)
 
 
+
 // DO NOT MODIFY THE CODE BELOW THIS LINE
 let toExport;
 
