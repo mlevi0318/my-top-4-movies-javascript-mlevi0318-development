@@ -71,7 +71,7 @@ let averageRating = (favMovies[0].rating + favMovies[1].rating + favMovies[2].ra
 console.log("The average rating is: " + averageRating);
 
 let averageAge = ( (2023 - favMovies[0].year) + (2023 - favMovies[1].year) + (2023 - favMovies[2].year) + (2023 - favMovies[3].year) ) / 4;
-console.log("The average age is: " + averageAge)
+console.log("The average age is: " + averageAge) 
 
 // DO NOT MODIFY THE CODE BELOW THIS LINE
 let toExport;
